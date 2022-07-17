@@ -2,6 +2,7 @@
 - 👀 I’m interested in Frontend development and design.
 - 🌱 I’m currently learning HTML & CSS in depth.
 - 💞️ I’m looking to collaborate on creating components from JS libraries and frameworks.
+- In addition Angular 2+, ReactJS, Phaser3
 - 📫 How to reach me mitul.patel224@gmail.com
 
 <!---
