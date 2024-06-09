@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mitulpatel224
-- 👀 I’m interested in Frontend development and design.
-- 🌱 I’m currently learning HTML & CSS in depth.
+- 👀 I’m interested in Application development and design Web, Hybrid, CMS, etc.
+- 🌱 I keep updating my knowledge of Angular, React.JS, and CMS tools.
 - 💞️ I’m looking to collaborate on creating components from JS libraries and frameworks.
-- In addition Angular 2+, ReactJS, Phaser3
+- In addition Angular 2+, ReactJS, Phaser3 are some known frameworks for me.
 - 📫 How to reach me mitul.patel224@gmail.com
 
 <!---
