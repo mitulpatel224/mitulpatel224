@@ -5,6 +5,7 @@
 - 💡 In addition Angular 2+, ReactJS, Phaser3 are some known frameworks for me.
 - 🤩 Check my practice repos for HTML, CSS, JS, TS, Angular, React, and Vue.
 - 📫 How to reach me mitul.patel224@gmail.com
+- ![](https://komarev.com/ghpvc/?username=mitulpatel224)
 
 <!---
 mitulpatel224/mitulpatel224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
